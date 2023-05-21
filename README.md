@@ -3,7 +3,7 @@ This project is a 3D graphic design of a farm created using the OpenGL library. 
 
 This project was created as part of a university assignment and will not be updated further. It serves as a demonstration of OpenGL concepts and techniques.
 
-![OnTheFarm screenshot](https://github.com/dan-kiwi/public_files/blob/e34491f43cbc05fa2a7f28952988bc3b1cb04118/OnTheFarm_Screenshot.png?raw=true)
+![OnTheFarm screenshot](https://github.com/dan-kiwi/public_files/blob/cb57db1f7c6ac90176d0f99afb4dc4ebd08add3b/OnTheFarm_Screenshot.png?raw=true)
 
 ## Features
 3D rendering of a farm environment
@@ -18,7 +18,8 @@ GLUT (OpenGL Utility Toolkit)
 C/C++ compiler
 
 ## Controls
-Use the arrow keys or WASD to move the camera around the scene.
+Use the WASD to move the camera around the scene.
+Use the RF to zoom the camera in and out.
 Press the spacebar to rotate the sheep around the water trough.
 
 ## Contributing
