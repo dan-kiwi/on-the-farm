@@ -3,7 +3,7 @@ This project is a 3D graphic design of a farm created using the OpenGL library. 
 
 This project was created as part of a university assignment and will not be updated further. It serves as a demonstration of OpenGL concepts and techniques.
 
-[OnTheFarm screenshot](https://github.com/dan-kiwi/public_files/blob/e34491f43cbc05fa2a7f28952988bc3b1cb04118/OnTheFarm_Screenshot.png?raw=true)
+![OnTheFarm screenshot](https://github.com/dan-kiwi/public_files/blob/e34491f43cbc05fa2a7f28952988bc3b1cb04118/OnTheFarm_Screenshot.png?raw=true)
 
 ## Features
 3D rendering of a farm environment
